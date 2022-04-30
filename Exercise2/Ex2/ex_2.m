@@ -1,3 +1,13 @@
+% Before starting this exercise code, complete the following functions in this exercise:
+
+%% sigmoid.m
+%% costFunction.m
+%% predict.m
+%% costFunctionReg.m
+
+% Starting the exercise code
+
+
 data=load('ex2data2.txt');
 X=data(:,[1,2]);
 y=data(:,3);
