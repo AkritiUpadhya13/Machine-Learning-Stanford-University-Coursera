@@ -1,3 +1,12 @@
+% Before starting this exercise code, complete the following functions in this exercise:
+
+%% sigmoidGradient.m
+%% randInitializeWeights.m
+%% nnCostFunction.m
+
+% Starting the exercise code
+
+
 input_layer_size=400;
 hidden_layer_size=25;
 num_labels=10;
