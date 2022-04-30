@@ -3,8 +3,9 @@
 
 function J=computeCost(X,y,theta)
 % Initializing some useful values
-m=length(y); % number of training examples
-i=1:m;
-J=(1/(2*m))*sum(((theta(1)+theta(2).*X(i,2))-y(i)).^2);
-
+m=length(X); % number of training examples
+J=0;
+h=X*theta; % predictions of hypothesis of all m examples
+sError=(h-y).^2; % squared errors
+J=sum(sError/(2*m));
 end
