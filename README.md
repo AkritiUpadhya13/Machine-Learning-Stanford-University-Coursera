@@ -1,0 +1,2 @@
+# Machine-Learning-Stanford-University-Coursera
+Here are the lecture materials, solutions of all the quizzes and the programming assignments of the course Machine learning taught by Andrew Ng (Stanford University) at Coursera. I have completed this course and after completing this course, I have basic understanding of machine learning. First, try the quiz and programming exercise by your own, if you stuck in there, then feel free to take help from my codes.
