@@ -1,3 +1,14 @@
+% Before starting this exercise code, complete the following functions in this exercise:
+
+%% lrCostFunction.m (logistic regression cost function)
+%% oneVsAll.m
+%% predictOneVsAll.m
+%% predict.m
+
+% Starting the exercise code
+
+
+
 load ('ex3data1.mat');
 m=size(X,1);
 sel=randperm(size(X,1));
